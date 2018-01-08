@@ -1,1 +1,61 @@
-theme: jekyll-theme-leap-day
+# Basic
+title: Wei Peng
+subtitle: 淡泊明志，宁静致远
+description: stay hungry,stay foolish
+creator: <a href="https://bowenroom.github.io">@bowenroom</a>
+url: "https://bowenroom.github.io"
+
+# Comment
+comment:
+    #disqus: vno-jekyll
+    # duoshuo: 
+    
+
+# Social
+social:
+    weibo: 6202542140
+    github: bowenroom
+ 
+ 
+    mail: bowenroom@163.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
+welcome_message: welcome to bowenroom
+description: Using the blog to record the daily progress.
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 24895534  
+
+
+
+
+
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: All, description: 所有的文章目录, url: '/archive'}   
+    - {title: Tags, description: 根据标签进行分类, url: '/tags'}      
+    - {title: About me, description: 个人简介, url: '/about'}      
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
