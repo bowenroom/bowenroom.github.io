@@ -52,7 +52,7 @@ blog_button:
 nav:
     - {title: All, description: directory of all contents, url: '/archive'}   
     - {title: Tags, description: classify by tags, url: '/tags'}      
-    - {title: About me, description: resume, url: '/archive/2020-03-30-Me.md'}      
+    - {title: About me, description: resume, url: '/archive/2020-03-30-Me'}      
 
 # Pagination
 gems: [jekyll-paginate]
