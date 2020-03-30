@@ -50,9 +50,9 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: All, description: 所有的文章目录, url: '/archive'}   
-    - {title: Tags, description: 根据标签进行分类, url: '/tags'}      
-    - {title: About me, description: 个人简介, url: '/about'}      
+    - {title: All, description: directory of all contents, url: '/archive'}   
+    - {title: Tags, description: classify by tags, url: '/tags'}      
+    - {title: About me, description: resume, url: '/about'}      
 
 # Pagination
 gems: [jekyll-paginate]
