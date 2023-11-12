@@ -12,11 +12,7 @@ tags: paper
 
 
 # Abstract
-![Static Badge](https://img.shields.io/badge/NJLCC2022-passing-brightgreen)
-![Static Badge](https://img.shields.io/badge/Latest_Date-20230228-violet)
-![Static Badge](https://img.shields.io/badge/Progress-40%25-blue)
-[![license](https://img.shields.io/github/license/open-mmlab/mmsegmentation.svg)](https://github.com/open-mmlab/mmsegmentation/blob/main/LICENSE)
-[![open issues](https://isitmaintained.com/badge/open/open-mmlab/mmsegmentation.svg)](https://github.com/bowenroom/bowenroom.github.io/issues) 
+![Static Badge](https://img.shields.io/badge/NJLCC2022-passing-brightgreen) ![Static Badge](https://img.shields.io/badge/Latest_Date-20230228-violet) ![Static Badge](https://img.shields.io/badge/Progress-40%25-blue) [![license](https://img.shields.io/github/license/open-mmlab/mmsegmentation.svg)](https://github.com/open-mmlab/mmsegmentation/blob/main/LICENSE) [![open issues](https://isitmaintained.com/badge/open/open-mmlab/mmsegmentation.svg)](https://github.com/bowenroom/bowenroom.github.io/issues) 
 
 
 
