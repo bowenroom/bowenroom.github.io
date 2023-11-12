@@ -13,14 +13,8 @@ tags: paper
 
 # Abstract
 <p>
-<img src="https://img.shields.io/badge/NJLCC2022-passing-brightgreen" alt="Badge" />
-<img src="https://img.shields.io/badge/Latest_Date-20230228-violet" alt="Badge" />
-<img src="https://img.shields.io/badge/Progress-40%25-blue" alt="Badge" />
-<img src="https://img.shields.io/github/license/open-mmlab/mmsegmentation.svg" alt="Badge" />
-<img src="https://isitmaintained.com/badge/open/open-mmlab/mmsegmentation.svg" alt="Badge" />
+<img src="https://img.shields.io/badge/NJLCC2022-passing-brightgreen" alt="Badge" /> <img src="https://img.shields.io/badge/Latest_Date-20230228-violet" alt="Badge" /> <img src="https://img.shields.io/badge/Progress-40%25-blue" alt="Badge" /> <img src="https://img.shields.io/github/license/open-mmlab/mmsegmentation.svg" alt="Badge" /> <img src="https://isitmaintained.com/badge/open/open-mmlab/mmsegmentation.svg" alt="Badge" />
 </p>
-
-
 
 The existing land cover classification dataset are collected under clear weather conditions. In practical applications, adverse climate conditions can significantly impact the model's classification performance. However, the existing datasets, while suitable for model training and accuracy testing, are inadequate for evaluating classification robustness under adverse weather conditions like haze and fog. Consequently, when models trained on clean remote sensing images perform well on test datasets, the frequent occurrence of fog in real-world scenarios can severely interfere with the quality of remote sensing images, leading to reduced model classification accuracy and poor generalization. Therefore, this study collected remote sensing data in Nanjing under both sunny and foggy conditions using drones and named the dataset NJLCC2022 (NanJing Land Cover Classification in 2022). This approach helps: 
 -  better assess the degradation in model classification performance under foggy conditions compared to clean conditions.
