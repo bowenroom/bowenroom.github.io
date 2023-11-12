@@ -31,24 +31,19 @@ The existing land cover classification dataset are collected under clear weather
 This dataset was collected using the DJI Mavic 3 drone for remote sensing imagery. The optical imagery primarily includes three spectral bands: red, green, and blue. The drone flew at an altitude of 200 meters, with a ground sampling distance of 4 cm/pixel. As of April 1, 2023, this dataset contains a total of 22 orthorectified images. Among these, 9 images were affected by fog, while the remaining 13 were acquired under clear sky conditions. The average resolution of the images is 9000×9000 pixels. In order to reduce model bias and to compare land cover differences between urban and rural areas, the sampling locations of the 22 images are scattered between the urban area (Xuanwu District) and rural area (Jiangning District) of Nanjing, Jiangsu Province. The NJLCC2022 dataset includes annotations for 5 classes of objects, namely Clutter Background, Car, Playground, Water, and Building. Each class is annotated with a different color: `Clutter Background (RGB: 0, 0, 0), Car (RGB: 0, 128, 0), Playground (RGB: 128, 0, 128), Water (RGB: 0, 0, 128), and Building (RGB: 128, 0, 0)`.
 ## Details
 ### Locations and Data Collection Dates
-| Site Name    | URL                                                |
-| ------------ | ---------------------------------------------------|
-| OneV's Den   | [http://onevcat.com](http://onevcat.com)           |
-| July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
-| Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
 
 | Sample ID | Collection Date | Fog Type | Longitude | Latitude |
 |-----------|-----------------|----------|-----------|----------|
 | ortho1    | 2023-02-06      | Thick     | 118.818251| 32.064312|
 | ortho2    | 2023-02-06      | Thick     | 118.823017| 32.065051|
 | ortho3    | 2023-02-06      | Thick     | 118.816626| 32.066614|
-| ortho4    | 2022-11-03      | Clear| 118.809120| 32.054298|
-| ortho5    | 2022-12-07      | Moderate| 118.819967| 32.072009|
-| ortho6    | 2022-12-09      | Thin    | 118.825302| 32.072846|
-| ortho7    | 2022-12-07      | Moderate | 118.861529| 31.914914|
-| ortho8    | 2022-12-09      | Thin    | 118.869680| 31.925127|
-| ortho9    | 2022-12-09      | Thin    | 118.870319| 31.915301|
-| ortho10   | 2022-12-07      | Moderate| 118.874873| 31.914486|
+| ortho4    | 2022-11-03      | Clear     | 118.809120| 32.054298|
+| ortho5    | 2022-12-07      | Moderate  | 118.819967| 32.072009|
+| ortho6    | 2022-12-09      | Thin      | 118.825302| 32.072846|
+| ortho7    | 2022-12-07      | Moderate  | 118.861529| 31.914914|
+| ortho8    | 2022-12-09      | Thin      | 118.869680| 31.925127|
+| ortho9    | 2022-12-09      | Thin     | 118.870319| 31.915301|
+| ortho10   | 2022-12-07      | Moderate  | 118.874873| 31.914486|
 | ortho11   | 2022-10-11      | Clear | 118.801179| 32.069022|
 | ortho12   | 2022-12-13      | Clear | 118.805841| 32.058883|
 | ortho15   | 2022-12-15      | Clear | 118.793864| 32.060306|
@@ -61,7 +56,7 @@ This dataset was collected using the DJI Mavic 3 drone for remote sensing imager
 | ortho22   | 2023-01-06      | Clear | 118.788154| 32.058070|
 | ortho25   | 2022-10-18      | Clear | 118.795385| 32.063230|
 | ortho26   | 2022-10-19      | Clear | 118.813055| 32.057664|
-<!-- ![](https://s2.loli.net/2023/11/12/mgRcDqbje1WwHyk.png) -->
+
 ### Location Map
 ![](https://s2.loli.net/2023/11/12/CSVOQIgz65kvdmT.png)
 # Images
