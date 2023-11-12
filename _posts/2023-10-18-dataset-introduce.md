@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semantic Representation Fusion-Based Network for Robust Land Cover Classification in Foggy Conditions
+title: NJLCC2022 Dataset
 date: 2023-10-19 5:38:28.000000000 +09:00
 categories: bowenroom
 tags: paper
@@ -20,6 +20,7 @@ The existing land cover classification dataset are collected under clear weather
 -  better assess the degradation in model classification performance under foggy conditions compared to clean conditions.
 - investigate the commonalities in visual representations in remote sensing images under foggy conditions, thereby designing models with strong robustness.
 - use real remote sensing data from both clear and foggy conditions to enhance model transfer learning.
+> The dataset is from *Shi W, Qin W, Yun Z, Wu C, Yang Y, Zhao T. Semantic Representation Fusion-Based Network for Robust Land Cover Classification in Foggy Conditions[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-16.*
 
 # Dataset 
 ## Description
