@@ -61,6 +61,9 @@ This dataset was collected using the DJI Mavic 3 drone for remote sensing imager
 ![](https://s2.loli.net/2023/11/12/tmJ2AlSHzT5nUPv.png)
 
 # Download
+```
+https://drive.google.com/drive/folders/1tYat2bYZpny5T6xT--Q0oy9WHNRQOCX0?usp=sharing
+```
 # Citation
 ```
 @article{shiSemanticRepresentationFusionBased2023,
