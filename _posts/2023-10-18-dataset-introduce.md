@@ -20,6 +20,7 @@ The existing land cover classification dataset are collected under clear weather
 -  better assess the degradation in model classification performance under foggy conditions compared to clean conditions.
 - investigate the commonalities in visual representations in remote sensing images under foggy conditions, thereby designing models with strong robustness.
 - use real remote sensing data from both clear and foggy conditions to enhance model transfer learning.
+
 > The dataset is from *Shi W, Qin W, Yun Z, Wu C, Yang Y, Zhao T. Semantic Representation Fusion-Based Network for Robust Land Cover Classification in Foggy Conditions[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-16.*
 
 # Dataset 
@@ -63,7 +64,7 @@ This dataset was collected using the DJI Mavic 3 drone for remote sensing imager
 
 # Download
 ```
-https://drive.google.com/drive/folders/1tYat2bYZpny5T6xT--Q0oy9WHNRQOCX0?usp=sharing
+If you want to use dataset for model training and evaluation, please send an email to bowenroom1@gmail.com for a request and clarify the purpose.
 ```
 # Citation
 ```
@@ -83,9 +84,8 @@ https://drive.google.com/drive/folders/1tYat2bYZpny5T6xT--Q0oy9WHNRQOCX0?usp=sha
 `E-mail: qinwenhu@seu.edu.cn,bowenroom1@gmail.com`
 
 
- 
 
- 
+
 
 
 
